@@ -1,0 +1,19 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+              "id": "ars-technica",
+              "name": "Ars Technica"
+            },
+            "author": "Beth Mole",
+            "title": "Former Trump vaccine czar fired over substantiated sexual harassment claim - Ars Technica",
+            "description": "GSK hired a law firm for an investigation, which substantiated the claims.",
+            "url": "https://arstechnica.com/science/2021/03/former-trump-vaccine-czar-fired-over-substantiated-sexual-harassment-claim/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/11/slaoui-warp-speed-760x380.jpg",
+            "publishedAt": "2021-03-24T20:38:25Z",
+            "content": "Enlarge/ President Donald Trump listens as Moncef Slaoui, the former head of GlaxoSmithKlines vaccines division, speaks about coronavirus vaccine development in the Rose Garden of the White House on … [+3063 chars]"
+          }
+    ]
+}
